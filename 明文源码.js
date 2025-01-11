@@ -11,6 +11,7 @@ let subEmoji = 'true';
 let socks5Address = '';
 let parsedSocks5Address = {};
 let enableSocks = false;
+let t_admin = '1';
 
 let noTLS = 'false';
 const expire = 4102329600;//2099-12-31
